@@ -60,12 +60,19 @@ Bu proje, bir inşaat firması için geliştirilmiş; **stok yönetimi**, **mü�
 
 stokSatis_Akay
 │
+
 ├── BLL        → İş kuralları ve iş mantığı
+
 ├── DAL        → Veritabanı işlemleri
+
 ├── Entities   → Veri modelleri
-├── UI         → Windows Forms arayüzleri
+
+├── UI         → Windows Forms arayüzler
+
 ├── App.config → Yapılandırma dosyası
+
 ├── Program.cs → Başlangıç noktası
+
 └── stokSatis_Akay.csproj
 
 ## 📸 Ekran Görüntüleri
