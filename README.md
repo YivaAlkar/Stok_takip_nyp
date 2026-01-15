@@ -162,7 +162,7 @@ GitHub: https://github.com/YivaAlkar
 
 ## 🎥 Video
 
-ajkbasjk
+https://youtu.be/EhngIj24SIU
 
 ## 📌 Not
 Bu proje eğitim ve akademik amaçlarla geliştirilmiştir.
